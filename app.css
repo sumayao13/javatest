@@ -1,0 +1,18 @@
+.image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.btn {
+    width: 100%;
+    margin: 5px 0;
+    border: none;
+    background-color: aqua;
+    color: fff;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #ddd;
+    cursor: pointer;
+}
