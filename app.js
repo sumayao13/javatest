@@ -9,5 +9,5 @@ $buttons.forEach((button) => {
 
         audio.play()
         $image.setAttribute('src', image)
-    }
+    })
 })
